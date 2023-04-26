@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laura!
 - 👀 About me: I am a full-time full-stack software engineering student based in Seattle, Washington at Epicodus. 
 - In my free time I love the outdoors, rock climbing, and hanging with family and friends.
-- 🌱 I’m currently learning JavaScript, C#, .NET, React on track to graduate September 2023
+- 🌱 I’m currently learning JavaScript, C#, .NET, React <> on track to graduate September 2023
 - 📫 How to reach me: lauramhope.dpt@gmail.com, https://www.linkedin.com/in/laura-hope-softwaredev/
