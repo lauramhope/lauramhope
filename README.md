@@ -5,18 +5,16 @@
 - 📫 How to reach me:
 - [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lauramhope.dpt@gmail.com)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-hope-softwaredev/)
-
+---
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin)
-
+---
 [![GitHub Streak](https://streak-stats.demolab.com?user=lauramhope&theme=panda&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-
+---
 <div style="text-align: center;">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramhope&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=lauramhope&icon=1&color=1)](https://visitcount.itsvg.in)
