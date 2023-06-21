@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!%2C+I'm+Laura!)](https://git.io/typing-svg)
-- - 🖥 I'm a full-time full-stack software engineering student at Epicodus, based in Seattle, Washington. 
+- 🖥 I'm a full-time full-stack software engineering student at Epicodus, based in Seattle, Washington. 
 - 🌱 In my free time I love the outdoors, rock climbing, and hanging with family and friends.
 - 🎓I’m currently learning JavaScript, C#, .NET, React <> on track to graduate September 2023
 - 📫 How to reach me:
