@@ -10,8 +10,8 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=lauramhope&theme=panda&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 ---
