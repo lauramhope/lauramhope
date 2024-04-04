@@ -13,10 +13,4 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=lauramhope&theme=panda&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
----
-<div style="text-align: center;">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramhope&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
