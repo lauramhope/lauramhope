@@ -7,9 +7,9 @@
 - [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:laura.hope.se@gmail.com)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-hope-softwaredev/)
 ---
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&text=true&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&text=true&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=R&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ---
